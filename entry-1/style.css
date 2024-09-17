@@ -6,9 +6,8 @@
 
 .overlay-text {
   position: absolute;
-  top: 5vw; 
-  left: 22vw; 
-  transform: translate(-50%, -50%);  
+  top: 1vw; 
+  left: 2vw; 
   color: #ffffff; 
   padding: 10px 20px; 
   font-size: 8vw; 
