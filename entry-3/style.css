@@ -6,15 +6,65 @@
 
 .overlay-text {
   position: absolute;
-  top: 1vw; 
+  top: 2vw; 
   left: 2vw; 
   color: #ffffff; 
   padding: 10px 20px; 
   font-size: 8vw; 
-  opacity: .7;
   text-align: left;
 }
+.overlay-text:hover summary{
+  opacity:100%;
+}
 
+details > summary {
+  opacity: .7;
+  left: 2vw;
+  line-height: .5;
+  font-size: 8vw
+}
+summary  {
+  list-style: none;
+}
+details > p {
+  opacity: .7;
+  margin-left: 2vw;
+  line-height: .5;
+  font-size: 4vw
+}
+
+a:link {
+  text-decoration: none;
+  color: white;
+  opacity: .7;
+  margin-left: 2vw;
+  line-height: .5;
+  font-size: 4vw
+}
+a:visited {
+  text-decoration: none;
+  color: white;
+  opacity: .7;
+  margin-left: 2vw;
+  line-height: .5;
+  font-size: 4vw
+}
+a:hover {
+  text-decoration: none;
+  color: white;
+  opacity: 100%;
+  margin-left: 2vw;
+  line-height: .5;
+  font-size: 4vw
+}
+a:hover {
+  text-decoration: none;
+  color: white;
+  opacity: 100%;
+  margin-left: 2vw;
+  line-height: .5;
+  font-size: 4vw
+}
 body {
   margin: 0
 }
