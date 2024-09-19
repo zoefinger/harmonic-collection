@@ -26,6 +26,7 @@ body {
 }
 
 details > summary {
+  cursor: pointer;
   opacity: .7;
   left: 2vw;
   line-height: .5;
