@@ -13,6 +13,9 @@
   font-size: 8vw; 
   text-align: left;
 }
+.overlay-text:hover summary{
+  opacity:100%;
+}
 
 details > summary {
   opacity: .7;
