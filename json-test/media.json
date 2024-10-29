@@ -1,0 +1,91 @@
+{
+    "books": [
+      {
+        "title": "Good Omens",
+        "author": ["Neil Gaiman", "Terry Pratchett"]
+      },
+      {
+        "title": "Stone Butch Blues",
+        "author": ["Leslie Feinberg"]
+      },
+      {
+        "title": "Fun Home",
+        "author": ["Allison Bechdel"]
+      },
+      {
+        "title": "The Seven Husbands of Evelyn Hugo",
+        "author": ["Taylor Jenkins Reid"]
+      },
+      {
+        "title": "The House on the Ceruluan Sea",
+        "author": ["TJ Klune"]
+      }
+      
+    ],
+
+    "movies": [
+      {
+        "title": "But I'm a Cheerleader",
+        "writer": ["Brian Peterson", "Jamie Babbit"],
+        "director": ["Jamie Babbit"],
+        "starring": ["Natasha Lyonne", "Clea DuVall", "Michelle Williams"]
+      },
+      {
+        "title": "Bottoms",
+        "writer": ["Emma Seligman", "Rachel Sennot"],
+        "director": ["Emma Seligman"],
+        "starring": ["Rachel Sennot", "Ayo Edebiri", "Ruby Cruz"]
+      },
+      {
+        "title": "Spirited Away",
+        "writer": ["Hayao Miyazaki"],
+        "director": ["Hayao Miyazaki"],
+        "starring": ["Daveigh Chase", "Suzanne Pleshette", "Miyu Irino"]
+      },
+      {
+        "title": "The Secret World of Arrietty",
+        "writer": ["Hayao Miyazaki", "Mary Norton", "Keiko Niwa"],
+        "director": ["Hiromasa Yonebayashi"],
+        "starring": ["Bridgit Mendler", "Amy Poehler", "Will Arnett"]
+      }
+    ],
+    "tv shows": [
+      {
+        "title": "Our Flag Means Death",
+        "writer": ["David Jenkins"],
+        "director": ["Taika Waititi"],
+        "starring": ["Rhys Darby", "Taika Waititi"]
+      },
+      {
+        "title": "Good Omens",
+        "writer": ["Neil Gaiman"],
+        "director": ["Douglas MacKinnon"],
+        "starring": ["David Tennant", "Michael Sheen"]
+      },
+      {
+        "title": "Ted Lasso",
+        "writer": ["Brendan Hunt"],
+        "director": ["Declan Lowney"],
+        "starring": ["Jason Sudeikis", "Hannah Waddingham", "Jeremy Swift"]
+      },
+      {
+        "title": "Over the Garden Wall",
+        "writer": ["Patrick McHale", "Tom Herpich"],
+        "director": ["Nate Cash"],
+        "starring": ["Elijah Wood", "Collin Dean", "Melanie Lynskey"]
+      },
+      {
+        "title": "Gravity Falls",
+        "writer": ["Alex Hirsch"],
+        "director": ["Joe Pitt", "John Aoshima"],
+        "starring": ["Jason Ritter", "Kristen Schall", "Alec Hirsch"]
+      },
+      {
+        "title": "What We Do in the Shadows",
+        "writer": ["Jemaine Clement"],
+        "director": ["Yana Gorskaya", "Kyle Newacheck"],
+        "starring": ["Harvey Guillén", "Natasia Demetriou", "Matt Berry", "Kayvan Novak", "Mark Proksch"]
+      }
+    ]
+  }
+
