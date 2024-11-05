@@ -1,0 +1,15 @@
+#images {
+  height: 500px;
+  margin: auto;
+}
+.first-image {
+  height: 500px;
+  background: url(images/Anna.jpg) no-repeat;
+  margin: auto;
+}
+
+.second-image {
+  height: 500px;
+  background: url(images/cyanotype_landscape_resize2.jpg) no-repeat;
+  margin: auto;
+}

@@ -1,0 +1,18 @@
+#images {
+  display: block;
+  width: 1000px;
+  height: auto;
+}
+.first-image {
+  width: 1000px;
+
+  background: url(images/poppa_harmonic_collection.png) no-repeat;
+  margin: auto;
+}
+
+.second-image {
+  width: 1000px;
+  
+  background: url(images/cyanotype_landscape_resize2.jpg) no-repeat;
+  margin: auto;
+}
