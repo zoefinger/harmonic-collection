@@ -1,0 +1,21 @@
+#images {
+  
+  display: block;
+ 
+
+  
+}
+.first-image {
+  object-fit: contain;
+   width: 1200px;
+   height: 10000px;
+  background: url(images/mom-harmonic-collection.png) no-repeat;
+  
+}
+
+.second-image {
+  object-fit: contain;
+  width: 1200px;
+  height: 10000px;
+  background: url(images/mom-harmonic-collection-rainbow.png) no-repeat;
+}
